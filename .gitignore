@@ -1,0 +1,17 @@
+# Ignore audio, video, and event output files
+output_audio.wav
+output_video.mp4
+output_events.txt
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore other temporary or system files
+*.log
+*.tmp
+.DS_Store
+
+# Ignore virtual environment
+venv/
